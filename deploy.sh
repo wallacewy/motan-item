@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-docker run -d -p 8001:8001 motan-item
+docker run -d -p 8003:8003 motan-item
